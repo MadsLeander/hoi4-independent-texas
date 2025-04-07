@@ -41,3 +41,5 @@ set_popularities = {
 #add_ideas = {
 #    home_of_the_free
 #}
+
+recruit_character = TEX_james_v_allred

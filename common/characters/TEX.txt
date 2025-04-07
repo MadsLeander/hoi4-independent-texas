@@ -1,0 +1,13 @@
+characters={
+    TEX_james_v_allred = {
+        name=TEX_james_v_allred
+        portraits={
+            civilian={
+                large=GFX_portrait_TEX_james_v_allred
+            }
+        }
+        country_leader={
+            ideology=liberalism
+        }
+    }
+}
