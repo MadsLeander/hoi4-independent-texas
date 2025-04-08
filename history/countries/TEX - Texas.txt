@@ -1,9 +1,10 @@
 ﻿capital = 375 # Texas
 
-set_research_slots = 4
-set_stability = 0.75
-set_war_support = 0
+set_research_slots = 3
+set_stability = 0.4
+set_war_support = 0.2
 add_command_power = 20
+set_convoys = 45
 
 # Starting tech
 set_technology = {
@@ -25,21 +26,23 @@ set_technology = {
     engine_tech_1 = 1
 }
 
-set_convoys = 700
-
+# Politics
 set_politics = {
     ruling_party = democratic
-    last_election = "1932.11.8"
-    election_frequency = 48
+    last_election = "1934.9.29"
+    election_frequency = 36
     elections_allowed = yes
 }
 set_popularities = {
-    democratic = 99
-    communism = 1
+    democratic = 58
+    fascism = 12
+    communism = 22
+    neutrality = 8
 }
 
-#add_ideas = {
-#    home_of_the_free
-#}
+add_ideas = {
+    free_trade
+}
 
+# Characters
 recruit_character = TEX_james_v_allred
