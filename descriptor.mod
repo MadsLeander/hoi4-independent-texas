@@ -7,4 +7,4 @@ tags={
     "Map"
 }
 name="Independent Texas"
-supported_version="1.16.4"
+supported_version="1.16.*"
